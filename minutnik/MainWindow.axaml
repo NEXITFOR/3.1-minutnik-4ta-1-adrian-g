@@ -33,6 +33,7 @@
                            FontSize="40"
                            FontWeight="SemiBold"
                            HorizontalAlignment="Center" />
+                <ListBox Name="HistoryList" />                           
             </StackPanel>
         </StackPanel>
 
