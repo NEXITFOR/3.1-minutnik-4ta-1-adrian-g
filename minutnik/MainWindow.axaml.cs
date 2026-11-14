@@ -24,6 +24,8 @@ public partial class MainWindow : Window
 
         _timer = new DispatcherTimer { Interval = TimeSpan.FromSeconds(1) };
         _timer.Tick += OnTick;
+        _history.Add($"{DateTime.Now:HH:mm} — cykl {_cycles}");
+        istoryList.ItemsSource = _history.ToArray();
 
         WorkMinutesBox.ValueChanged += OnWorkMinutesChanged;
 
