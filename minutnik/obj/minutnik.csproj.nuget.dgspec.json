@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adrian Grochowski\\Desktop\\3.1-minutnik-4ta-1-adrian-g\\trzecie-okno\\minutnik\\minutnik.csproj": {}
+    "c:\\Users\\Adrian\\Downloads\\3.1-minutnik-4ta-1-adrian-g-main\\minutnik\\minutnik.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adrian Grochowski\\Desktop\\3.1-minutnik-4ta-1-adrian-g\\trzecie-okno\\minutnik\\minutnik.csproj": {
+    "c:\\Users\\Adrian\\Downloads\\3.1-minutnik-4ta-1-adrian-g-main\\minutnik\\minutnik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adrian Grochowski\\Desktop\\3.1-minutnik-4ta-1-adrian-g\\trzecie-okno\\minutnik\\minutnik.csproj",
+        "projectUniqueName": "c:\\Users\\Adrian\\Downloads\\3.1-minutnik-4ta-1-adrian-g-main\\minutnik\\minutnik.csproj",
         "projectName": "minutnik",
-        "projectPath": "C:\\Users\\Adrian Grochowski\\Desktop\\3.1-minutnik-4ta-1-adrian-g\\trzecie-okno\\minutnik\\minutnik.csproj",
-        "packagesPath": "C:\\Users\\Adrian Grochowski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adrian Grochowski\\Desktop\\3.1-minutnik-4ta-1-adrian-g\\trzecie-okno\\minutnik\\obj\\",
+        "projectPath": "c:\\Users\\Adrian\\Downloads\\3.1-minutnik-4ta-1-adrian-g-main\\minutnik\\minutnik.csproj",
+        "packagesPath": "C:\\Users\\Adrian\\AppData\\Local\\Temp\\cursor-sandbox-cache\\6d4346e81ce5207b21065c2ae60b691f\\nuget",
+        "outputPath": "c:\\Users\\Adrian\\Downloads\\3.1-minutnik-4ta-1-adrian-g-main\\minutnik\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Adrian Grochowski\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -90,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Users\\Adrian\\AppData\\Local\\Temp\\dotnet-sdk-minutnik\\sdk\\10.0.404/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
