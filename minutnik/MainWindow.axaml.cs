@@ -7,6 +7,7 @@ namespace minutnik;
 
 public partial class MainWindow : Window
 {
+    private readonly List<string> _history = new();
     private const int DefaultWorkMinutes = 25;
     private const int DefaultBreakMinutes = 5;
 
